@@ -1,0 +1,8 @@
+@relation 'algorithms_test'
+
+@attribute a0 {TRUE,FALSE}
+@attribute a1 {FALSE,TRUE}
+@attribute class {c0,c1}
+
+@data
+TRUE,FALSE,?
